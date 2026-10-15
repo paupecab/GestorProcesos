@@ -89,7 +89,6 @@ logs/
 └── proceso4_salida.log   proceso4_error.log
 ```
 
-Cada ejecución **sobrescribe** los registros anteriores.
 
 ## Notas
 
